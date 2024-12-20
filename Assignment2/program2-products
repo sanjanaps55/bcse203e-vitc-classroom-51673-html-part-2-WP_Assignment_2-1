@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>
+            Product catalog
+        </title>
+    </head>
+    <body>
+        <header>
+            <h3>Product Catalog</h3>
+        </header>
+        <nav>
+            
+            <a href="/electronic/">Electronics<br></a>
+            <a href="/Fashionn/">Fashion<br></a>
+            <a href="/Groceries/">Groceries<br></a>
+        </nav>
+        <section>
+            <h1>Products</h1>
+            <h1>Electronics</h1>
+            <img src="C:\Users\scope1\CD\test1.html\image.p1.jfif" alt="apple watch" height="200" width="200">
+            <h2>Apple Watch</h2>
+            <li> Apple Watch is a wearable smartwatch that allows users to accomplish a variety of tasks, including making phone calls, sending text messages and reading email.</li>
+            <ul>
+                <li>Orginal Price: Rs.46,000</li>
+                <li>Discounted Price: Rs.40,000</li>
+            </ul>
+        </section>
+        <section>
+            <h1>Fashion</h1>
+            <img src="C:\Users\scope1\CD\test1.html\download.p3.jfif" alt="prada bag" height="200" width="200">
+            <h2>Prada tote bag</h2>
+            <li>Re-Nylon triangle-logo plaque padded tote bag</li>
+            <ul>
+                <li>Orginal Price: Rs2,51,100</li>
+                <li>Discounted Price:2,10,000</li>
+            </ul>
+        </section>
+        <section>
+            <img src="C:\Users\scope1\CD\test1.html\image2.p2.jpg" alt="ramen" height="200" width="200">
+            <h2>Buldak Ramen</h2>
+            <li>Buldak Ramen, also known as “Fire Chicken Ramen,” has emerged as a culinary sensation, captivating taste buds across the globe.</li>
+            <ul>
+                <li> Orginal Price: Rs.569</li>
+                <li> Discounted Price: Rs.500</li>
+            </ul>
+        </section>
+        <section>
+            <h4>Terms and conditions</h4>
+            <ul>
+                <li>No refund policy</li>
+                <li>Privacy</li>
+            </ul>
+        </section>
+        <li>&copy;Copyright</li>
+
+    </body>
+</html>
